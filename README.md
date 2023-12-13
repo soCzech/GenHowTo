@@ -1,8 +1,8 @@
 # GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos
 
-### [[Project Website :dart:]](https://soczech.github.io/genhowto/)&nbsp;&nbsp;&nbsp;[[Paper :page_with_curl:]](https://arxiv.org/abs/)&nbsp;&nbsp;&nbsp;[Code :octocat:]
+### [[Project Website :dart:]](https://soczech.github.io/genhowto/)&nbsp;&nbsp;&nbsp;[[Paper :page_with_curl:]](https://arxiv.org/abs/2312.07322)&nbsp;&nbsp;&nbsp;[Code :octocat:]
 
-This repository contrains code for the paper [GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos](https://arxiv.org/abs/).
+This repository contrains code for the paper [GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos](https://arxiv.org/abs/2312.07322).
 
 <img src="https://soczech.github.io/assets/img/GenHowTo.svg" style="width:100%">
 
