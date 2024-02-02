@@ -1,0 +1,137 @@
+VID_ID,DS_CAT,DS_CAT_NAME,FRAME_S1,FRAME_S2,FRAME_AC,SCORE,FRAME_S2_PROMPT,FILENAME
+2F8BTsJ7z4A,0,apple,10,190,26,0.778722,"an apple is being cut into pieces on a cutting board",states_0.results4.0779_2F8BTsJ7z4A.jpg
+3Nu9xt-BoiI,0,apple,0,57,16,0.98833925,"a person slicing apples on a plate with a knife",states_0.results5.0988_3Nu9xt-BoiI.jpg
+3d7iOgFbQK0,0,apple,27,82,45,0.9791032,"a person slicing an apple on an orange plate",states_0.results3.0979_3d7iOgFbQK0.jpg
+4sW14rYEutE,0,apple,41,121,99,0.8251375,"a person slicing an apple on a cutting board",states_0.results4.0825_4sW14rYEutE.jpg
+4to4sw0yBN0,0,apple,9,186,39,0.9702902,"a woman is cutting up some vegetables on a cutting board",states_0.results2.0970_4to4sw0yBN0.jpg
+4uLMGjcCqrA,0,apple,47,130,62,0.7867845,"a person cutting an apple with a knife on a cutting board",states_0.results4.0787_4uLMGjcCqrA.jpg
+4uLMGjcCqrA,0,apple,47,105,66,0.77556866,"a person slicing an apple with a knife on a cutting board",states_0.results7.0776_4uLMGjcCqrA.jpg
+ACd5y9kC6Pg,0,apple,5,97,10,0.91973716,"a person is slicing up some apples on a cutting board",states_0.results.0920_ACd5y9kC6Pg.jpg
+DdSoQsEKXkk,0,apple,81,504,320,0.9786412,"sliced apples on a red plate next to a sink",states_0.results3.0979_DdSoQsEKXkk.jpg
+H2riSWvKz4Q,0,apple,292,348,322,0.98428375,"a person slicing an apple into slices on a white surface",states_0.results3.0984_H2riSWvKz4Q.jpg
+HGHxctDhQUs,0,apple,2,97,14,0.83061033,"sliced apples on a cutting board next to a fork",states_0.results4.0831_HGHxctDhQUs.jpg
+HGHxctDhQUs,0,apple,4,97,13,0.9214367,"sliced apples on a cutting board next to a fork",states_0.results.0921_HGHxctDhQUs.jpg
+O1PF03yLt5I,0,apple,90,145,135,0.98963577,"a woman slicing apples on a cutting board",states_0.results5.0990_O1PF03yLt5I.jpg
+P3fvVNUPEng,0,apple,51,206,88,0.9794192,"a person slicing an apple on a red and white checkered tablecloth",states_0.results3.0979_P3fvVNUPEng.jpg
+QP6MzTSOTCM,0,apple,40,83,68,0.82624245,"a person slicing an apple on a cutting board",states_0.results7.0826_QP6MzTSOTCM.jpg
+QofBZ2wlMek,0,apple,7,103,91,0.9728215,"a person is cutting an apple into a spiral shape",states_0.results2.0973_QofBZ2wlMek.jpg
+TiJEUvquK14,0,apple,13,33,23,0.9601885,"a woman is slicing an apple with an apple slicer",states_0.results2.0960_TiJEUvquK14.jpg
+UKaJk3tc1II,0,apple,9,75,20,0.98087037,"a person slicing an apple on a plate",states_0.results3.0981_UKaJk3tc1II.jpg
+X7QPZEsdnrU,0,apple,31,316,104,0.9792054,"a person slicing an apple on a cutting board",states_0.results3.0979_X7QPZEsdnrU.jpg
+X7QPZEsdnrU,0,apple,12,287,95,0.9866674,"a person slicing an apple with a knife on a cutting board",states_0.results5.0987_X7QPZEsdnrU.jpg
+YlIFxN_k_D4,0,apple,8,90,29,0.77922904,"a person is peeling an apple in a kitchen sink",states_0.results4.0779_YlIFxN_k_D4.jpg
+cDYcCU23JDI,0,apple,19,47,22,0.9151439,"a person holding a plate of sliced apples on a cutting board",states_0.results.0915_cDYcCU23JDI.jpg
+ejd2QJbUzms,0,apple,9,117,19,0.93738943,"a person holding a plate with sliced apples on it",states_0.results.0937_ejd2QJbUzms.jpg
+ejd2QJbUzms,0,apple,8,113,19,0.80257803,"a person holding a piece of apple on a tiled floor",states_0.results7.0803_ejd2QJbUzms.jpg
+jHU_690z0TA,0,apple,16,47,32,0.98735297,"a woman is slicing an apple on a cutting board",states_0.results5.0987_jHU_690z0TA.jpg
+n0NLUBe1JCo,0,apple,22,179,122,0.93351376,"a person slicing an apple with a knife on a cutting board",states_0.results.0934_n0NLUBe1JCo.jpg
+pGRvWEn-D9I,0,apple,2,61,23,0.9420028,"a green plate with slices of apple on it",states_0.results8.0942_pGRvWEn-D9I.jpg
+qUBvvfjs3DQ,0,apple,7,40,12,0.9168641,"a person is slicing a piece of fruit with a knife",states_0.results.0917_qUBvvfjs3DQ.jpg
+qUBvvfjs3DQ,0,apple,7,48,12,0.9786452,"a woman is making french fries out of an apple",states_0.results3.0979_qUBvvfjs3DQ.jpg
+qzfy2G7sl3g,0,apple,8,403,98,0.91054493,"a woman slicing an apple on a cutting board",states_0.results6.0911_qzfy2G7sl3g.jpg
+-Z766UDtnbA,1,avocado,5,148,84,0.9489532,"a person is slicing an avocado on a plate",states_1.results.0949_-Z766UDtnbA.jpg
+3QwuG2v-WxI,1,avocado,21,111,65,0.87270993,"a person slicing an avocado on a cutting board",states_1.results7.0873_3QwuG2v-WxI.jpg
+BHac-BX_Tv8,1,avocado,21,95,74,0.9465559,"a person cutting an avocado on a cutting board",states_1.results.0947_BHac-BX_Tv8.jpg
+BnmrnGqMbZ8,1,avocado,21,150,68,0.98955923,"a person slicing an avocado on a cutting board",states_1.results10.0990_BnmrnGqMbZ8.jpg
+BtWuVv1oQdI,1,avocado,30,162,65,0.87715554,"a woman slicing an avocado on a cutting board",states_1.results7.0877_BtWuVv1oQdI.jpg
+EFqE6uUvObg,1,avocado,28,131,48,0.99447405,"a person slicing an avocado on a cutting board",states_1.results11.0994_EFqE6uUvObg.jpg
+EFqE6uUvObg,1,avocado,27,132,43,0.9375877,"a person cutting an avocado on a cutting board",states_1.results6.0938_EFqE6uUvObg.jpg
+GijprwiLdbc,1,avocado,1,245,143,0.87859637,"a man is slicing an avocado on a plate",states_1.results7.0879_GijprwiLdbc.jpg
+KSY_TJAZEzg,1,avocado,9,48,43,0.8611461,"sliced avocados on a white plate",states_1.results4.0861_KSY_TJAZEzg.jpg
+LaqDxCQ5nNc,1,avocado,7,51,25,0.97084105,"a person is cutting an avocado with a spoon on a green cutting board",states_1.results8.0971_LaqDxCQ5nNc.jpg
+MUjkxJxMFiw,1,avocado,6,107,33,0.9906168,"a woman slicing an avocado on a cutting board",states_1.results5.0991_MUjkxJxMFiw.jpg
+Pl4EUZ7T3Wk,1,avocado,5,65,37,0.8808306,"a knife cutting an avocado on a wooden cutting board",states_1.results7.0881_Pl4EUZ7T3Wk.jpg
+TN6blN1PxDY,1,avocado,2,35,12,0.96618295,"a chef is cutting an avocado on a white plate",states_1.results2.0966_TN6blN1PxDY.jpg
+TN6blN1PxDY,1,avocado,0,36,18,0.9684728,"a chef is slicing an apple on a white plate",states_1.results8.0968_TN6blN1PxDY.jpg
+YO7fVv6LWP8,1,avocado,18,72,38,0.94362617,"a woman is chopping an avocado on a cutting board",states_1.results6.0944_YO7fVv6LWP8.jpg
+ZN2QKNmNAOA,1,avocado,47,122,66,0.8830305,"a person holding an avocado in a bowl",states_1.results7.0883_ZN2QKNmNAOA.jpg
+_WXXKsGMKa4,1,avocado,22,146,126,0.95321554,"a person slicing an avocado on a plate",states_1.results.0953__WXXKsGMKa4.jpg
+ciZFDXkQO_8,1,avocado,3,184,88,0.9911039,"a person holding a yellow bowl filled with avocado",states_1.results5.0991_ciZFDXkQO_8.jpg
+dw9-_3cNpMo,1,avocado,157,320,164,0.9907926,"a man is cutting an avocado with a knife",states_1.results10.0991_dw9-_3cNpMo.jpg
+dw9-_3cNpMo,1,avocado,205,510,343,0.9853355,"a man is slicing an avocado in a bowl",states_1.results3.0985_dw9-_3cNpMo.jpg
+ereEoWs0VDw,1,avocado,1,49,19,0.98963624,"a person slicing an avocado on a kitchen counter",states_1.results9.0990_ereEoWs0VDw.jpg
+h-YmKJHIAM0,1,avocado,15,110,54,0.94837654,"a person cutting an avocado on a cutting board",states_1.results.0948_h-YmKJHIAM0.jpg
+h-YmKJHIAM0,1,avocado,27,130,54,0.96688545,"a person slicing an avocado on a cutting board",states_1.results2.0967_h-YmKJHIAM0.jpg
+i2Y3j9UDNWs,1,avocado,7,144,41,0.9480978,"a sliced avocado on a wooden cutting board",states_1.results.0948_i2Y3j9UDNWs.jpg
+n61QT9ozVPw,1,avocado,37,109,65,0.9900911,"a woman in a pink chef's coat slicing an avocado",states_1.results10.0990_n61QT9ozVPw.jpg
+ntdgVSeJzBc,1,avocado,27,81,34,0.93752164,"a person cutting an avocado on a plate",states_1.results6.0938_ntdgVSeJzBc.jpg
+oIRcTS_N5Qg,1,avocado,4,40,22,0.9720638,"a person is slicing an avocado with a spoon",states_1.results8.0972_oIRcTS_N5Qg.jpg
+oOyxe-w3Lss,1,avocado,32,287,187,0.8621726,"a person slicing an avocado on a cutting board",states_1.results4.0862_oOyxe-w3Lss.jpg
+q_p-p-BQtc0,1,avocado,113,363,252,0.9526185,"a person is cutting avocados on a cutting board",states_1.results.0953_q_p-p-BQtc0.jpg
+rQH1BGbjsFU,1,avocado,25,70,44,0.8535782,"a person cutting an avocado on a white plate",states_1.results4.0854_rQH1BGbjsFU.jpg
+rb9kWBuNAt0,1,avocado,96,166,106,0.96910137,"a man is slicing an avocado and putting it on a plate",states_1.results8.0969_rb9kWBuNAt0.jpg
+sZqHCBu1eCI,1,avocado,45,150,96,0.96487325,"a person holding a wooden bowl filled with avocados",states_1.results2.0965_sZqHCBu1eCI.jpg
+u1SsHFujCOc,1,avocado,25,437,329,0.85705465,"a person slicing an avocado on a cutting board",states_1.results4.0857_u1SsHFujCOc.jpg
+ve-opp8STZo,1,avocado,11,74,30,0.85921663,"a person slicing an avocado on a cutting board",states_1.results4.0859_ve-opp8STZo.jpg
+xjYCjsRYh6s,1,avocado,14,201,47,0.87894714,"a man slicing an avocado on a cutting board",states_1.results7.0879_xjYCjsRYh6s.jpg
+zKD8loqVdUg,1,avocado,41,118,84,0.9564897,"a knife cutting an avocado on a cutting board",states_1.results.0956_zKD8loqVdUg.jpg
+6X_aKOgQiTM,2,bacon,3,158,29,0.99176276,"a person holding a piece of bacon on a plate",states_2.results9.0992_6X_aKOgQiTM.jpg
+89RRlX65TXE,2,bacon,81,348,130,0.8789982,"bacon on a piece of paper on a counter",states_2.results7.0879_89RRlX65TXE.jpg
+8GT1_G_Y2jU,2,bacon,77,343,157,0.877503,"a person is cooking bacon in a pan in front of an air fryer",states_2.results7.0878_8GT1_G_Y2jU.jpg
+gV2zipH_CZ4,2,bacon,51,327,101,0.96172446,"a man is putting bacon on a plate in the toaster oven",states_2.results2.0962_gV2zipH_CZ4.jpg
+h9g0VS9T2WM,2,bacon,16,397,115,0.95990896,"a man holding a plate with bacon and eggs",states_2.results8.0960_h9g0VS9T2WM.jpg
+h9g0VS9T2WM,2,bacon,17,395,114,0.80776787,"a man holding a plate with eggs and bacon on it",states_2.results4.0808_h9g0VS9T2WM.jpg
+it__kOe2u5g,2,bacon,20,109,62,0.93131864,"a woman holding a fork over a plate with bacon on it",states_2.results6.0931_it__kOe2u5g.jpg
+nHsWn_wOLK8,2,bacon,84,360,156,0.9620503,"a man holding a plate with bacon in the oven",states_2.results2.0962_nHsWn_wOLK8.jpg
+rLDgEwo6mt4,2,bacon,20,288,117,0.92929107,"a man in a kitchen preparing bacon on a plate",states_2.results6.0929_rLDgEwo6mt4.jpg
+rLDgEwo6mt4,2,bacon,60,307,117,0.84956956,"a man holding a plate with bacon on it",states_2.results7.0850_rLDgEwo6mt4.jpg
+379kZvfckPs,3,ball,39,150,115,0.91944516,"a man sitting on a couch holding a large blue balloon",states_3.results.0919_379kZvfckPs.jpg
+379kZvfckPs,3,ball,46,150,134,0.77951777,"a man sitting on a couch holding a large blue balloon",states_3.results4.0780_379kZvfckPs.jpg
+6Hr-aDRj3GU,3,ball,29,597,468,0.96792144,"a woman holding a beach ball in front of flowers",states_3.results3.0968_6Hr-aDRj3GU.jpg
+6W00ovgFYuk,3,ball,8,172,129,0.75620484,"a woman holding a large blue ball in an attic",states_3.results4.0756_6W00ovgFYuk.jpg
+8tp8EgrL3Ps,3,ball,191,370,281,0.9781225,"a man holding a basketball on a table",states_3.results9.0978_8tp8EgrL3Ps.jpg
+GSk1jOafR5I,3,ball,17,247,198,0.9592952,"two boys are playing with a large pink balloon",states_3.results2.0959_GSk1jOafR5I.jpg
+OUILJTELEys,3,ball,1,72,37,0.9809233,"a man standing in front of a blue exercise ball",states_3.results9.0981_OUILJTELEys.jpg
+Qx5PXJV0_C4,3,ball,86,140,120,0.761957,"a man standing in front of a bubble ball",states_3.results4.0762_Qx5PXJV0_C4.jpg
+hvPwK23pxOA,3,ball,45,102,78,0.9403552,"a man sitting on a couch with an exercise ball",states_3.results2.0940_hvPwK23pxOA.jpg
+iCNZdgkAa_g,3,ball,24,196,180,0.79970235,"a man kneeling next to an exercise ball in a gym",states_3.results7.0800_iCNZdgkAa_g.jpg
+jy4QK8zRcAo,3,ball,1,131,34,0.990104,"a woman standing in front of a large plastic ball",states_3.results10.0990_jy4QK8zRcAo.jpg
+jzkEdNeatwA,3,ball,25,77,55,0.759683,"a man holding an exercise ball in front of a picnic table",states_3.results7.0760_jzkEdNeatwA.jpg
+kA9FkcfS11s,3,ball,96,229,183,0.81327933,"a man holding an exercise ball in front of a table",states_3.results4.0813_kA9FkcfS11s.jpg
+kA9FkcfS11s,3,ball,50,194,183,0.9056482,"a man holding an exercise ball on a table",states_3.results.0906_kA9FkcfS11s.jpg
+qvcICWqtCuw,3,ball,151,366,309,0.89438534,"a woman in a leopard print shirt holding a balloon",states_3.results.0894_qvcICWqtCuw.jpg
+y_hIiUStVzQ,3,ball,29,449,308,0.9060897,"a woman holding a blue ball in a living room",states_3.results.0906_y_hIiUStVzQ.jpg
+y_hIiUStVzQ,3,ball,71,449,309,0.95345277,"a woman holding a blue ball in a living room",states_3.results2.0953_y_hIiUStVzQ.jpg
+0MBOKqsZHzc,4,beer,192,244,216,0.9476445,"a man standing behind a bar with a beer in his hand",states_4.results.0948_0MBOKqsZHzc.jpg
+1suL3h8IbyA,4,beer,31,124,93,0.8630046,"a man sitting at a table holding a beer",states_4.results4.0863_1suL3h8IbyA.jpg
+2ho_VpqdzD8,4,beer,71,107,97,0.87201345,"a man sitting at a table with a beer",states_4.results4.0872_2ho_VpqdzD8.jpg
+6855qtwp1Q0,4,beer,48,88,61,0.8862177,"a man with glasses holding up a glass of beer",states_4.results4.0886_6855qtwp1Q0.jpg
+6855qtwp1Q0,4,beer,47,83,61,0.97771055,"a man with glasses holding a glass of beer",states_4.results2.0978_6855qtwp1Q0.jpg
+BSXBX-IPBIE,4,beer,163,192,178,0.97717905,"a man sitting at a table holding a glass of beer",states_4.results2.0977_BSXBX-IPBIE.jpg
+CeatgOeyem0,4,beer,137,231,184,0.93909824,"a man pouring beer into a glass",states_4.results6.0939_CeatgOeyem0.jpg
+CeatgOeyem0,4,beer,120,266,193,0.86555296,"a man holding a beer and a can of soda",states_4.results7.0866_CeatgOeyem0.jpg
+CwgO1LhpzDU,4,beer,123,545,175,0.9717777,"a man holding up a glass of beer in front of a computer",states_4.results8.0972_CwgO1LhpzDU.jpg
+CwgO1LhpzDU,4,beer,164,430,382,0.94605273,"a man holding up a glass of beer in front of a computer",states_4.results.0946_CwgO1LhpzDU.jpg
+CwgO1LhpzDU,4,beer,165,421,383,0.99008036,"a man holding a glass of beer in front of a computer",states_4.results5.0990_CwgO1LhpzDU.jpg
+EkzxdY1lTmE,4,beer,119,202,133,0.9875519,"a glass of beer sitting on top of a counter",states_4.results3.0988_EkzxdY1lTmE.jpg
+EkzxdY1lTmE,4,beer,119,224,133,0.97915965,"a can of guinness",states_4.results2.0979_EkzxdY1lTmE.jpg
+EkzxdY1lTmE,4,beer,119,205,134,0.9904175,"a person pouring a can of beer into a glass",states_4.results5.0990_EkzxdY1lTmE.jpg
+F5fONRA3BeM,4,beer,457,518,504,0.949413,"a man and woman standing at a bar with a beer",states_4.results.0949_F5fONRA3BeM.jpg
+GxxLE-ni0Lo,4,beer,75,187,91,0.9522984,"a man holding up a glass of beer",states_4.results.0952_GxxLE-ni0Lo.jpg
+GxxLE-ni0Lo,4,beer,45,168,89,0.9867062,"a man holding up a glass of beer",states_4.results3.0987_GxxLE-ni0Lo.jpg
+GxxLE-ni0Lo,4,beer,8,188,98,0.87066656,"a man holding up a glass of beer",states_4.results4.0871_GxxLE-ni0Lo.jpg
+HbbQaWNGRu4,4,beer,12,158,97,0.95958996,"a man sitting at a table with a glass of beer",states_4.results8.0960_HbbQaWNGRu4.jpg
+JTrlPExQdoY,4,beer,85,239,198,0.959121,"a man sitting at a table with two glasses of beer",states_4.results8.0959_JTrlPExQdoY.jpg
+L3jCP1ZdK8g,4,beer,21,179,168,0.9876406,"a man standing in a brewery holding a beer",states_4.results3.0988_L3jCP1ZdK8g.jpg
+NOOuW9c1U5Y,4,beer,121,214,183,0.9385437,"two men sitting at a table with a glass of beer",states_4.results6.0939_NOOuW9c1U5Y.jpg
+Nm8QcdR5WIs,4,beer,42,87,60,0.97915417,"a bottle of beer sitting on a wooden table",states_4.results2.0979_Nm8QcdR5WIs.jpg
+VZe_IVsZFpg,4,beer,71,223,108,0.9863376,"a man sitting at a table with a glass of beer",states_4.results3.0986_VZe_IVsZFpg.jpg
+VZe_IVsZFpg,4,beer,65,217,108,0.990653,"a man sitting at a table with a glass of beer",states_4.results5.0991_VZe_IVsZFpg.jpg
+W8u8_oGFCWE,4,beer,11,119,84,0.9697497,"a man holding up a glass of beer",states_4.results8.0970_W8u8_oGFCWE.jpg
+ZN4oiWy0kWo,4,beer,82,334,305,0.9785553,"a man holding up a glass of beer",states_4.results2.0979_ZN4oiWy0kWo.jpg
+ZN4oiWy0kWo,4,beer,115,336,305,0.94787765,"a man holding up a beer in front of a kitchen",states_4.results.0948_ZN4oiWy0kWo.jpg
+aPcGY137LIs,4,beer,114,155,132,0.9475576,"a man holding up a glass of beer",states_4.results.0948_aPcGY137LIs.jpg
+aSMeOw29BMI,4,beer,36,74,64,0.99339134,"a man holding up a glass of guinness",states_4.results9.0993_aSMeOw29BMI.jpg
+d-v_8n0r4Fo,4,beer,27,115,104,0.86910355,"a man holding up a glass of beer",states_4.results4.0869_d-v_8n0r4Fo.jpg
+lB1gPWVG1Bo,4,beer,153,212,173,0.9858043,"a man holding a beer tap in front of a bar",states_4.results3.0986_lB1gPWVG1Bo.jpg
+mHL1QLxvubY,4,beer,321,532,401,0.9947221,"a man holding a beer in front of a dart board",states_4.results11.0995_mHL1QLxvubY.jpg
+mvib1Xbnfas,4,beer,41,184,104,0.87800056,"a man sitting at a table with two glasses of beer",states_4.results7.0878_mvib1Xbnfas.jpg
+nOM5LhBUUVs,4,beer,7,256,100,0.93554693,"a man sitting at a wooden table with a glass of beer",states_4.results6.0936_nOM5LhBUUVs.jpg
+ntVUcbsJiJs,4,beer,10,53,26,0.96209055,"a woman sitting at a table with a glass of beer",states_4.results8.0962_ntVUcbsJiJs.jpg
+s-c7zPn5crE,4,beer,391,704,452,0.97773594,"a man pouring beer into a glass",states_4.results2.0978_s-c7zPn5crE.jpg
+uEaYCppCrDg,4,beer,43,161,54,0.9599644,"a man sitting at a bar holding a beer",states_4.results8.0960_uEaYCppCrDg.jpg
+xyXn4UBjQkE,4,beer,49,107,75,0.8734435,"a man standing in front of a kitchen counter holding a glass of beer",states_4.results4.0873_xyXn4UBjQkE.jpg
+y13JBLQO8no,4,beer,57,164,91,0.97589225,"a bartender pouring a beer at a bar",states_4.results2.0976_y13JBLQO8no.jpg
+z7k1VQwGT8E,4,beer,30,122,66,0.99198765,"a man standing in front of a table with two beers",states_4.results9.0992_z7k1VQwGT8E.jpg
+z7k1VQwGT8E,4,beer,31,122,66,0.99195415,"a man standing in front of a table with two beers",states_4.results10.0992_z7k1VQwGT8E.jpg
+z7k1VQwGT8E,4,beer,22,113,68,0.8757085,"a man in a black shirt holding a glass of beer",states_4.results4.0876_z7k1VQwGT8E.jpg

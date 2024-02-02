@@ -13,7 +13,10 @@ This repository contrains code for the paper [GenHowTo: Learning to Generate Act
    - The code was tested with PyTorch 2.0.
 
 2. **Download GenHowTo model weights**
-   - Use `download_weights.sh` script or download the [GenHowTo weights](https://data.ciirc.cvut.cz/public/projects/2023GenHowTo/weights/GenHowTo-STATES-96h-v1) manually.
+   - Use `download_weights.sh` script or download the [GenHowTo weights](https://data.ciirc.cvut.cz/public/projects/2023GenHowTo/weights/) manually.
+   - We provide the following weights:
+     - `GenHowTo-STATES-96h-v1` for generating state transformations.
+     - `GenHowTo-ACTIONS-96h-v1` for generating actions.
 
 3. **Get predictions**
    - Run the following command to get predictions for your image and prompt.
@@ -27,6 +30,10 @@ This repository contrains code for the paper [GenHowTo: Learning to Generate Act
      ```
    - `--num_steps_to_skip` is the number of steps to skip in the diffusion process.
      The higher the number, the more similar the generated image will be to the input image.
+
+
+## Evaluation
+To replicate our evaluation, please follow the instructions in the [evaluation](https://github.com/soCzech/GenHowTo/tree/main/evaluation) directory.
 
 
 ## Citation

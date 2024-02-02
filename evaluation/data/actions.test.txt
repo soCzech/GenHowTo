@@ -1,0 +1,99 @@
+VID_ID,DS_CAT,DS_CAT_NAME,FRAME_S1,FRAME_S2,FRAME_AC,SCORE,FRAME_AC_PROMPT,FILENAME
+3Nu9xt-BoiI,0,apple,0,59,17,0.9146211,"a person cutting an apple on a plate",states_0.results.0915_3Nu9xt-BoiI.jpg
+3d7iOgFbQK0,0,apple,27,82,45,0.9791032,"a person is slicing an apple on a plate",states_0.results3.0979_3d7iOgFbQK0.jpg
+4to4sw0yBN0,0,apple,9,186,39,0.9702902,"a woman slicing an apple on a cutting board",states_0.results2.0970_4to4sw0yBN0.jpg
+4uLMGjcCqrA,0,apple,47,105,66,0.77556866,"a woman slicing an apple on a cutting board",states_0.results7.0776_4uLMGjcCqrA.jpg
+8PAvgIr1GLM,0,apple,14,48,41,0.7839776,"a woman is peeling an apple with her hands",states_0.results4.0784_8PAvgIr1GLM.jpg
+Andtkeo4eEc,0,apple,30,438,68,0.92452747,"a person slicing an apple on top of a newspaper",states_0.results6.0925_Andtkeo4eEc.jpg
+DdSoQsEKXkk,0,apple,80,460,354,0.9178379,"a person slicing an apple on a red plate",states_0.results6.0918_DdSoQsEKXkk.jpg
+NnAi7crZdSo,0,apple,18,74,31,0.91658765,"a person is cutting an apple with a knife",states_0.results.0917_NnAi7crZdSo.jpg
+NnAi7crZdSo,0,apple,18,64,30,0.9889448,"a person cutting an apple with a knife",states_0.results5.0989_NnAi7crZdSo.jpg
+O1PF03yLt5I,0,apple,90,145,135,0.98963577,"a girl is slicing an apple on a cutting board",states_0.results5.0990_O1PF03yLt5I.jpg
+P3fvVNUPEng,0,apple,51,206,88,0.9794192,"a person slicing an apple with a knife on a red and white checkered tablecloth",states_0.results3.0979_P3fvVNUPEng.jpg
+RRY-v0LdctI,0,apple,7,371,21,0.9204148,"a person cutting an apple with a knife",states_0.results.0920_RRY-v0LdctI.jpg
+SJy4iYqCmmg,0,apple,18,99,48,0.96421224,"a woman is cutting an apple on a cutting board",states_0.results2.0964_SJy4iYqCmmg.jpg
+TiJEUvquK14,0,apple,13,33,23,0.9601885,"a woman is slicing an apple with an apple peeler",states_0.results2.0960_TiJEUvquK14.jpg
+UKaJk3tc1II,0,apple,9,67,20,0.7687103,"a person is slicing an apple on a plate",states_0.results7.0769_UKaJk3tc1II.jpg
+X7QPZEsdnrU,0,apple,57,204,95,0.96108913,"a person cutting an apple with a knife on a cutting board",states_0.results2.0961_X7QPZEsdnrU.jpg
+Yh3zWfbPido,0,apple,15,538,48,0.7905552,"a person slicing an apple on a cutting board",states_0.results7.0791_Yh3zWfbPido.jpg
+ZaGiTW1WvmM,0,apple,2,121,85,0.7803294,"a person is cutting an apple with a knife",states_0.results7.0780_ZaGiTW1WvmM.jpg
+e2wHJesxL9g,0,apple,3,303,124,0.80152607,"a person is cutting an apple with a knife",states_0.results4.0802_e2wHJesxL9g.jpg
+eSed5pq4lVQ,0,apple,483,650,564,0.9652191,"a person is cutting an apple with an apple peeler",states_0.results2.0965_eSed5pq4lVQ.jpg
+hM4t2HRd7lY,0,apple,13,142,49,0.9614802,"a woman slicing an apple on a cutting board",states_0.results2.0961_hM4t2HRd7lY.jpg
+kwSi6z3Nnj8,0,apple,5,139,46,0.9210368,"a woman is peeling an apple with a knife",states_0.results.0921_kwSi6z3Nnj8.jpg
+kwSi6z3Nnj8,0,apple,5,139,35,0.9929721,"a woman is peeling an apple with a knife",states_0.results11.0993_kwSi6z3Nnj8.jpg
+n0NLUBe1JCo,0,apple,22,179,122,0.93351376,"a person slicing an apple with a knife on a cutting board",states_0.results.0934_n0NLUBe1JCo.jpg
+ny8KDMNdnFo,0,apple,21,132,40,0.96392894,"a person cutting an apple with the help of a peeler",states_0.results8.0964_ny8KDMNdnFo.jpg
+pLAjVwVlGb0,0,apple,17,184,63,0.9612508,"a man is cutting an apple with a knife",states_0.results2.0961_pLAjVwVlGb0.jpg
+qUBvvfjs3DQ,0,apple,7,40,12,0.9168641,"a woman is cutting an apple with a knife",states_0.results.0917_qUBvvfjs3DQ.jpg
+uTJLZf61OCE,0,apple,4,16,6,0.78003496,"a person cutting an apple on a cutting board",states_0.results4.0780_uTJLZf61OCE.jpg
+5nec58EutoM,1,avocado,171,313,176,0.8538995,"a man is cutting an avocado with a knife",states_1.results4.0854_5nec58EutoM.jpg
+BnmrnGqMbZ8,1,avocado,17,150,95,0.94892013,"a person is cutting an avocado with a knife",states_1.results.0949_BnmrnGqMbZ8.jpg
+HkWi7EUsMHE,1,avocado,0,32,11,0.8745974,"a man slicing an avocado on a cutting board",states_1.results7.0875_HkWi7EUsMHE.jpg
+LaqDxCQ5nNc,1,avocado,7,51,25,0.97084105,"a person cutting an avocado on a green cutting board",states_1.results8.0971_LaqDxCQ5nNc.jpg
+PUMaffdpyP0,1,avocado,22,123,64,0.9853767,"a person cutting an avocado with a knife on a cutting board",states_1.results3.0985_PUMaffdpyP0.jpg
+Pl4EUZ7T3Wk,1,avocado,23,84,40,0.8565357,"a person slicing an avocado on a cutting board",states_1.results4.0857_Pl4EUZ7T3Wk.jpg
+S7WORBwguS4,1,avocado,15,66,21,0.99021596,"a person cutting an avocado in half on a plate",states_1.results9.0990_S7WORBwguS4.jpg
+SanwZk4lniQ,1,avocado,67,116,76,0.99078727,"a woman is cutting an avocado with a knife",states_1.results9.0991_SanwZk4lniQ.jpg
+TN6blN1PxDY,1,avocado,2,35,12,0.96618295,"a chef is cutting an avocado with a knife",states_1.results2.0966_TN6blN1PxDY.jpg
+Y5xPF6pjPQw,1,avocado,26,337,200,0.9486251,"a person is cutting an avocado with a green knife",states_1.results.0949_Y5xPF6pjPQw.jpg
+ciZFDXkQO_8,1,avocado,4,177,91,0.9481283,"a person cutting an avocado on a cutting board",states_1.results.0948_ciZFDXkQO_8.jpg
+dw9-_3cNpMo,1,avocado,205,682,343,0.97444445,"a man is cutting an avocado with a knife",states_1.results2.0974_dw9-_3cNpMo.jpg
+ereEoWs0VDw,1,avocado,1,49,19,0.98963624,"a man is cutting an avocado with a knife",states_1.results9.0990_ereEoWs0VDw.jpg
+h-YmKJHIAM0,1,avocado,15,110,54,0.94837654,"a person is cutting an avocado with a knife",states_1.results.0948_h-YmKJHIAM0.jpg
+og0QuoOuM3M,1,avocado,0,65,33,0.9649932,"a person is cutting an avocado with a knife",states_1.results2.0965_og0QuoOuM3M.jpg
+rPhuk5J3k6M,1,avocado,24,174,61,0.9898168,"a person cutting an avocado on a cutting board",states_1.results5.0990_rPhuk5J3k6M.jpg
+rQH1BGbjsFU,1,avocado,25,70,44,0.8535782,"a woman is cutting an avocado on a plate",states_1.results4.0854_rQH1BGbjsFU.jpg
+rb9kWBuNAt0,1,avocado,59,161,106,0.9661456,"a woman is slicing an avocado and putting it on a plate",states_1.results2.0966_rb9kWBuNAt0.jpg
+sZqHCBu1eCI,1,avocado,45,150,96,0.96487325,"a woman is cutting an avocado with a knife",states_1.results2.0965_sZqHCBu1eCI.jpg
+zKD8loqVdUg,1,avocado,41,118,84,0.9564897,"a person cutting an avocado on a cutting board",states_1.results.0956_zKD8loqVdUg.jpg
+0C6BAZJN8Y8,2,bacon,34,255,112,0.9917423,"a girl in a red apron is preparing bacon on a counter",states_2.results10.0992_0C6BAZJN8Y8.jpg
+4JVCziPpfWE,2,bacon,32,396,92,0.9386768,"a person is cooking bacon in an air fryer",states_2.results.0939_4JVCziPpfWE.jpg
+5oH9xTxruNc,2,bacon,90,263,112,0.85650826,"a woman is putting bacon on a pan in the oven",states_2.results7.0857_5oH9xTxruNc.jpg
+NpZMIU96vbE,2,bacon,79,279,98,0.9221142,"a man preparing bacon on a baking tray",states_2.results6.0922_NpZMIU96vbE.jpg
+ae-UOyI3z1w,2,bacon,65,126,98,0.9881196,"a person is putting meat into an oven",states_2.results5.0988_ae-UOyI3z1w.jpg
+e2QsQ_e-H0o,2,bacon,12,198,139,0.9634886,"a person is preparing bacon in an air fryer",states_2.results2.0963_e2QsQ_e-H0o.jpg
+gtwT6PcXhNQ,2,bacon,54,169,69,0.98790646,"a woman is putting bacon on tin foil on a counter",states_2.results9.0988_gtwT6PcXhNQ.jpg
+it__kOe2u5g,2,bacon,20,109,62,0.93131864,"a woman is preparing bacon on a plate",states_2.results6.0931_it__kOe2u5g.jpg
+lsEhhFPdb-k,2,bacon,13,259,210,0.79383475,"a person is cooking bacon in a pan on the stove",states_2.results4.0794_lsEhhFPdb-k.jpg
+qNslwSYi9po,2,bacon,38,298,69,0.81722605,"a man in a black hat is putting bacon on a pan",states_2.results4.0817_qNslwSYi9po.jpg
+rLDgEwo6mt4,2,bacon,12,310,269,0.83208966,"a man using a toaster oven to cook a piece of meat",states_2.results4.0832_rLDgEwo6mt4.jpg
+rLDgEwo6mt4,2,bacon,60,307,117,0.84956956,"a man putting bacon on a tray in a kitchen",states_2.results7.0850_rLDgEwo6mt4.jpg
+wA0obtW2RtY,2,bacon,99,259,119,0.9501443,"a man is preparing bacon in an air fryer",states_2.results8.0950_wA0obtW2RtY.jpg
+-kT0-_VIxtA,3,ball,23,35,33,0.77360475,"a person using a wire to attach an orange ball",states_3.results4.0774_-kT0-_VIxtA.jpg
+0DJ4-1vbmCM,3,ball,0,484,477,0.88482064,"a woman is blowing up a blue and orange balloon",states_3.results6.0885_0DJ4-1vbmCM.jpg
+379kZvfckPs,3,ball,41,150,97,0.89483035,"a man sitting on a couch blowing up a blue ball",states_3.results6.0895_379kZvfckPs.jpg
+6Hr-aDRj3GU,3,ball,29,597,468,0.96792144,"a woman is putting together a large beach ball",states_3.results3.0968_6Hr-aDRj3GU.jpg
+6W00ovgFYuk,3,ball,8,172,129,0.75620484,"a man is working on a large blue balloon",states_3.results4.0756_6W00ovgFYuk.jpg
+RSWPBpaUnJI,3,ball,13,123,68,0.9759851,"a person is using a hose to blow up a basketball",states_3.results9.0976_RSWPBpaUnJI.jpg
+gdrVlqmvEK0,3,ball,55,236,184,0.8905043,"a young boy is working on an orange balloon",states_3.results6.0891_gdrVlqmvEK0.jpg
+hvPwK23pxOA,3,ball,45,102,78,0.9403552,"a man sitting on an exercise ball with a hair dryer",states_3.results2.0940_hvPwK23pxOA.jpg
+kA9FkcfS11s,3,ball,50,194,183,0.9056482,"a man is putting a needle into an exercise ball",states_3.results.0906_kA9FkcfS11s.jpg
+qzYBm1K7PjM,3,ball,34,180,115,0.888223,"a man is holding a soccer ball in his hand",states_3.results.0888_qzYBm1K7PjM.jpg
+sMCogi_k8Lo,3,ball,0,38,20,0.9804882,"a person is using a tool to blow up a blue inflatable ball",states_3.results5.0980_sMCogi_k8Lo.jpg
+weN6jE27_Vg,3,ball,90,133,123,0.75957215,"a man is putting together a large green ball",states_3.results4.0760_weN6jE27_Vg.jpg
+y_hIiUStVzQ,3,ball,29,449,308,0.9060897,"a woman holding a blue globe in a living room",states_3.results.0906_y_hIiUStVzQ.jpg
+0MBOKqsZHzc,4,beer,192,244,216,0.9476445,"a man pouring a drink at a bar",states_4.results.0948_0MBOKqsZHzc.jpg
+1suL3h8IbyA,4,beer,31,124,93,0.8630046,"a man pouring beer into a glass",states_4.results4.0863_1suL3h8IbyA.jpg
+2ho_VpqdzD8,4,beer,71,107,97,0.87201345,"a man pouring beer into a glass at a table",states_4.results4.0872_2ho_VpqdzD8.jpg
+6fQBgFWGoXI,4,beer,109,168,121,0.9361575,"a man pouring beer into a glass",states_4.results6.0936_6fQBgFWGoXI.jpg
+6toloeKoNh8,4,beer,218,277,249,0.94998455,"a man pouring beer into a glass",states_4.results.0950_6toloeKoNh8.jpg
+8JtFvpnWJCs,4,beer,220,285,230,0.94828975,"a man pouring beer into a glass",states_4.results.0948_8JtFvpnWJCs.jpg
+CeatgOeyem0,4,beer,137,231,184,0.93909824,"a man is holding a can of beer and pouring it into a glass",states_4.results6.0939_CeatgOeyem0.jpg
+CwgO1LhpzDU,4,beer,164,430,382,0.94605273,"a man pouring beer into a glass",states_4.results.0946_CwgO1LhpzDU.jpg
+F5fONRA3BeM,4,beer,457,518,504,0.949413,"a man and woman pouring beer into a glass",states_4.results.0949_F5fONRA3BeM.jpg
+GxxLE-ni0Lo,4,beer,75,187,91,0.9522984,"a man pouring beer into a glass",states_4.results.0952_GxxLE-ni0Lo.jpg
+KFbALHPgmKo,4,beer,377,391,381,0.98612607,"a man pouring beer from a cooler in the back of a truck",states_4.results3.0986_KFbALHPgmKo.jpg
+NrGgy_brBIE,4,beer,26,223,171,0.94458187,"a man pouring beer into a glass on a table",states_4.results.0945_NrGgy_brBIE.jpg
+UKKHTnHefcA,4,beer,136,266,251,0.8830673,"a man in a vest is pouring beer into a glass",states_4.results4.0883_UKKHTnHefcA.jpg
+W8u8_oGFCWE,4,beer,5,119,85,0.8705058,"a man pouring a can of beer into a glass",states_4.results4.0871_W8u8_oGFCWE.jpg
+ZN4oiWy0kWo,4,beer,115,336,305,0.94787765,"a man pouring a beer from a machine",states_4.results.0948_ZN4oiWy0kWo.jpg
+aPcGY137LIs,4,beer,114,155,132,0.9475576,"a man in a blue shirt pouring beer into a glass",states_4.results.0948_aPcGY137LIs.jpg
+fAJfxGtWOSg,4,beer,2,19,10,0.99011177,"a man pouring a beer into a glass",states_4.results5.0990_fAJfxGtWOSg.jpg
+lB1gPWVG1Bo,4,beer,153,207,166,0.8810902,"a man is pouring beer into a glass",states_4.results4.0881_lB1gPWVG1Bo.jpg
+mHL1QLxvubY,4,beer,368,532,401,0.9858586,"a man pouring a beer into a glass",states_4.results3.0986_mHL1QLxvubY.jpg
+mlyjNGIgyx4,4,beer,150,244,175,0.9470438,"a man pouring beer into a glass on a table",states_4.results.0947_mlyjNGIgyx4.jpg
+ntVUcbsJiJs,4,beer,10,53,26,0.96209055,"a woman pouring beer into a glass",states_4.results8.0962_ntVUcbsJiJs.jpg
+o10QsIrNG8E,4,beer,61,115,76,0.9905463,"a person pouring a can of guinness into a glass",states_4.results9.0991_o10QsIrNG8E.jpg
+xJYT7nBOlpg,4,beer,96,265,105,0.9916143,"a man pouring guinness beer into a glass",states_4.results10.0992_xJYT7nBOlpg.jpg
+y13JBLQO8no,4,beer,57,164,91,0.97589225,"a man pouring beer from a tap",states_4.results2.0976_y13JBLQO8no.jpg
