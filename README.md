@@ -2,7 +2,7 @@
 
 ### [[Project Website :dart:]](https://soczech.github.io/genhowto/)&nbsp;&nbsp;&nbsp;[[Paper :page_with_curl:]](https://arxiv.org/abs/2312.07322)&nbsp;&nbsp;&nbsp;[Code :octocat:]
 
-This repository contrains code for the paper [GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos](https://arxiv.org/abs/2312.07322).
+This repository contrains code for the CVPR'24 paper [GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos](https://arxiv.org/abs/2312.07322).
 
 <img src="https://soczech.github.io/assets/img/GenHowTo.svg" style="width:100%">
 
@@ -38,11 +38,12 @@ To replicate our evaluation, please follow the instructions in the [evaluation](
 
 ## Citation
 ```bibtex
-@article{soucek2023genhowto,
+@inproceedings{soucek2024genhowto,
     title={GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos},
     author={Sou\v{c}ek, Tom\'{a}\v{s} and Damen, Dima and Wray, Michael and Laptev, Ivan and Sivic, Josef},
-    month = {December},
-    year = {2023}
+    booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2024}
 }
 ```
 

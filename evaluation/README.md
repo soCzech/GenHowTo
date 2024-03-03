@@ -1,6 +1,7 @@
 # How to replicate our evaluation?
 
 This is a step-by-step guide on how to replicate our evaluation.
+Note, the whole process of evaluation is done for the final states and actions separately.
 
 1. **Data**
     - Our evaluation is based on the [ChangeIt dataset](https://github.com/soCzech/ChangeIt).
@@ -38,4 +39,4 @@ This is a step-by-step guide on how to replicate our evaluation.
    - We used 10% of the train set as a validation set to select the best hyperparameters `C` and `max_iter`.
      - We considered `C` of `1e-07`, `5e-07`, `1e-06`, `1e-05`, and `1e-04`
      - We considered `max_iter` of `25`, `100`, and `250`
-   - The accuracy is evaluated separately for the final states and actions.
+
